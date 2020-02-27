@@ -1,2 +1,1 @@
-title: Anthony's Page 
-description: Hi, I'm Anthony and this is my GitHub page. Feel free to browse my projects and stuff.
+
